@@ -1,0 +1,12 @@
+body {
+    background-color: #f6f1c7;
+}
+
+#task-list li {
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+#task-list li:hover {
+    background-color: #ead3d3;
+}
